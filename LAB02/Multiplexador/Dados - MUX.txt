@@ -1,0 +1,6 @@
+Consumo de área:
+	-Pinos - 25/183
+	-Logic Elements - 8/5136 (total)
+
+Atraso Crítico:
+	- 7,511 nanosegundos (ocorre na entrada B[1] e saída Out[1] no caso FF - Ambos em fall -
