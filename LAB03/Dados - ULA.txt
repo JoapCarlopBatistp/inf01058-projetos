@@ -1,0 +1,6 @@
+Consumo de área:
+	-Pinos - 18/347 (5%)
+	-Logic Elements - 16/15408 (total)
+
+Atraso Crítico:
+	- 9,342 nanosegundos (Na entrada A[0] e saída S[3], na forma FF -Fall-Fall-
