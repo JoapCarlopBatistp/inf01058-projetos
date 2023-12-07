@@ -1,0 +1,5 @@
+Total pins: 19
+Total Logial Elements: 18
+
+Atraso Crítico:
+10.255
