@@ -1,0 +1,869 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -0.077
+TNS   : -0.077
+
+Type  : Slow 1200mV 85C Model Setup 'inst1'
+Slack : -0.012
+TNS   : -0.012
+
+Type  : Slow 1200mV 85C Model Setup 'inst17'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst9'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst14'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst7'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst8'
+Slack : 0.025
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst15'
+Slack : 0.026
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst3'
+Slack : 0.035
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst21'
+Slack : 0.052
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst12'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst16'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst11'
+Slack : 0.197
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst20'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst2'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'nome3'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'nome4'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst4'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst6'
+Slack : 0.229
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst5'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst10'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst19'
+Slack : 0.271
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst22'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'inst13'
+Slack : 0.331
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst19'
+Slack : -0.223
+TNS   : -0.223
+
+Type  : Slow 1200mV 85C Model Hold 'inst10'
+Slack : -0.202
+TNS   : -0.202
+
+Type  : Slow 1200mV 85C Model Hold 'inst5'
+Slack : -0.179
+TNS   : -0.179
+
+Type  : Slow 1200mV 85C Model Hold 'inst13'
+Slack : -0.178
+TNS   : -0.178
+
+Type  : Slow 1200mV 85C Model Hold 'inst6'
+Slack : -0.094
+TNS   : -0.094
+
+Type  : Slow 1200mV 85C Model Hold 'inst21'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst3'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst4'
+Slack : 0.020
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'nome3'
+Slack : 0.022
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'nome4'
+Slack : 0.022
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst2'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst20'
+Slack : 0.030
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst11'
+Slack : 0.032
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst15'
+Slack : 0.033
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst16'
+Slack : 0.035
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst8'
+Slack : 0.037
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst17'
+Slack : 0.047
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst1'
+Slack : 0.053
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst12'
+Slack : 0.062
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst14'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst7'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst9'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'inst22'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst1'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst10'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst11'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst12'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst13'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst14'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst15'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst16'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst17'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst19'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst20'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst21'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst22'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst4'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst5'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst6'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst7'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst8'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst9'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'nome3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'nome4'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : 0.057
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst1'
+Slack : 0.067
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst9'
+Slack : 0.069
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst14'
+Slack : 0.075
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst7'
+Slack : 0.075
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst17'
+Slack : 0.086
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst15'
+Slack : 0.094
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst8'
+Slack : 0.094
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst3'
+Slack : 0.105
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst21'
+Slack : 0.115
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst12'
+Slack : 0.212
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst16'
+Slack : 0.227
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst11'
+Slack : 0.231
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst20'
+Slack : 0.233
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst2'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'nome3'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'nome4'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst4'
+Slack : 0.241
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst6'
+Slack : 0.277
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst5'
+Slack : 0.281
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst10'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst19'
+Slack : 0.322
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst13'
+Slack : 0.375
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst22'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst19'
+Slack : -0.234
+TNS   : -0.234
+
+Type  : Slow 1200mV 0C Model Hold 'inst10'
+Slack : -0.209
+TNS   : -0.209
+
+Type  : Slow 1200mV 0C Model Hold 'inst13'
+Slack : -0.187
+TNS   : -0.187
+
+Type  : Slow 1200mV 0C Model Hold 'inst5'
+Slack : -0.187
+TNS   : -0.187
+
+Type  : Slow 1200mV 0C Model Hold 'inst6'
+Slack : -0.111
+TNS   : -0.111
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.066
+TNS   : -0.066
+
+Type  : Slow 1200mV 0C Model Hold 'inst3'
+Slack : -0.017
+TNS   : -0.017
+
+Type  : Slow 1200mV 0C Model Hold 'inst21'
+Slack : -0.013
+TNS   : -0.013
+
+Type  : Slow 1200mV 0C Model Hold 'inst15'
+Slack : 0.004
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst8'
+Slack : 0.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst17'
+Slack : 0.006
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst4'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst2'
+Slack : 0.011
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'nome3'
+Slack : 0.011
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'nome4'
+Slack : 0.011
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst20'
+Slack : 0.016
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst11'
+Slack : 0.018
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst1'
+Slack : 0.021
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst16'
+Slack : 0.022
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst12'
+Slack : 0.054
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst14'
+Slack : 0.103
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst7'
+Slack : 0.103
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst9'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'inst22'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst1'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst10'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst11'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst12'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst13'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst14'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst15'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst16'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst17'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst19'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst20'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst21'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst22'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst4'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst5'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst6'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst7'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst8'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst9'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'nome3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'nome4'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst17'
+Slack : 0.229
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst1'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst15'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst8'
+Slack : 0.236
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst14'
+Slack : 0.241
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst7'
+Slack : 0.242
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst9'
+Slack : 0.242
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst3'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst21'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst12'
+Slack : 0.338
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst5'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst6'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst10'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst16'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst11'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst2'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst20'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'nome3'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'nome4'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst4'
+Slack : 0.366
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst19'
+Slack : 0.379
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst13'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst22'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst19'
+Slack : -0.131
+TNS   : -0.131
+
+Type  : Fast 1200mV 0C Model Hold 'inst13'
+Slack : -0.111
+TNS   : -0.111
+
+Type  : Fast 1200mV 0C Model Hold 'inst10'
+Slack : -0.102
+TNS   : -0.102
+
+Type  : Fast 1200mV 0C Model Hold 'inst5'
+Slack : -0.088
+TNS   : -0.088
+
+Type  : Fast 1200mV 0C Model Hold 'inst6'
+Slack : -0.045
+TNS   : -0.045
+
+Type  : Fast 1200mV 0C Model Hold 'inst4'
+Slack : -0.011
+TNS   : -0.011
+
+Type  : Fast 1200mV 0C Model Hold 'inst2'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'inst20'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'nome3'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'nome4'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'inst11'
+Slack : -0.005
+TNS   : -0.005
+
+Type  : Fast 1200mV 0C Model Hold 'inst16'
+Slack : 0.001
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst21'
+Slack : 0.005
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst3'
+Slack : 0.006
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst12'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.009
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst1'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst15'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst8'
+Slack : 0.022
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst17'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst7'
+Slack : 0.046
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst14'
+Slack : 0.047
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst9'
+Slack : 0.048
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst22'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -4.093
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst1'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst10'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst11'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst12'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst13'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst14'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst15'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst16'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst17'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst19'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst20'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst21'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst22'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst4'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst5'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst6'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst7'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst8'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst9'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'nome3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'nome4'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
