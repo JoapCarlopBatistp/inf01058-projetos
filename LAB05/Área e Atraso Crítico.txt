@@ -1,0 +1,6 @@
+Consumo de área:
+	-Pinos - 3/183 (2%)
+	-Logic Elements - 47/5136 (total)
+
+Atraso Crítico:
+	- 3,727 nanosegundos
