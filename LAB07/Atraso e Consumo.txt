@@ -1,0 +1,2 @@
+Consumo - 32/183 pins (17%)
+Atraso Critico - 9.399 ns (Em FF - Fall Fall) na entrada[1] e output INCREMENTA_PC
